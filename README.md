@@ -1,8 +1,8 @@
 # Hanged
 It's a game of hanged
 
-### Players
+## Players
 1 or 2
-## Language
-- English
+### Language
+- French
 - Programming : Python
